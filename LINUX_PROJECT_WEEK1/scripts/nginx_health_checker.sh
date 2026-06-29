@@ -5,7 +5,7 @@
 NGINX_NAME="nginx"
 CONFIG_FILE="/etc/nginx/nginx.conf"
 ERROR_LOG="/var/log/nginx/error.log"
-TEST_URL="http://localhost:80"
+TEST_URL="http://localhost:8080"
 echo ""
 echo "NGINX Health Check Report"
 echo "$(date)"
